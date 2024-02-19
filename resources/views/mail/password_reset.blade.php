@@ -1,0 +1,2 @@
+<p>You have requested password reset of your account. If you want to change password <a href="http://localhost:4200/reset-password?token={{$token}}">click</a> here.</p>
+<p>Or copy and paste the URL into your web browser:http://localhost:4200/reset-password?token={{$token}}</p>
